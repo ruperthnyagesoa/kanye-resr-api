@@ -19,7 +19,7 @@ body {
     width: 200px;
     right: 1%;
     bottom: 1%;
-    position: absolute;
+    position: top;
 }
 
 #quote {
