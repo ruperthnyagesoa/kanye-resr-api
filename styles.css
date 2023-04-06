@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #48c93c;
+    text-align: center;
+}
+
+#kanye {
+    border: solid 5px #dfa94b;
+    display: block;
+    margin: auto;
+    width:40%;
+}
+
+#advisory {
+    height: 100px;
+    width: 200px;
+    right: 1%;
+    bottom: 1%;
+    position: absolute;
+}
+
+#quote {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: times-new-roman, sans-serif;
+    padding-top: 15px;
+    width: 100%;
+    justify-content: center;
+    align: center;
+}
